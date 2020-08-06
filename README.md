@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Linux, C, Golang, MariaDB
 - 👯 I’m looking to collaborate on Banking Corporation
 - 🤔 I’m looking for help with FinTech (Program Trading...)
-- 📫 How to reach me: [G-mail](mikeqo123@gmail.com)
+- 📫 How to reach me: [G-mail]<mikeqo123@gmail.com>
 - 😄 Pronouns: C, Golang, Back-End Engineer
 - ⚡ Fun fact: Basketball, Fitness, Freediving
 
