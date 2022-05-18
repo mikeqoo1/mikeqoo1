@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikeqoo1&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeqoo1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Taiwan taipei
 - 🌱 I’m currently learning Linux, C/C++, Golang, MariaDB
@@ -12,5 +12,5 @@
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeqoo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeqoo1)](https://github.com/anuraghazra/github-readme-stats)
 
