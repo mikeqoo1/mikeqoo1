@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+不屬天，不屬地， 生於三界之外，不在六道之中， 腿推千斤，肉吃百斤， 神人唯吾，海葵國王。
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeqoo1&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Taiwan taipei
