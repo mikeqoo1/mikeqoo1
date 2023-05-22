@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeqoo1&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Taiwan taipei
-- 🌱 I’m currently learning Linux, C/C++, Golang, MariaDB
+- 🌱 I’m currently learning Linux, C/C++, Golang, MariaDB, NewSQL(TiDB)
 - 👯 I’m looking to collaborate on Banking Corporation
 - 🤔 I’m looking for help with FinTech (Program Trading...)
 - 📫 How to reach me: <mikeqo123@gmail.com>
